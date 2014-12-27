@@ -1,4 +1,4 @@
 beemind.sh
 ==========
 
-Simple shell script for submitting auto data to beeminder.
+Simple shell script for submitting auto data to [Beeminder](https://www.beeminder.com/).
